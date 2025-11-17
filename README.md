@@ -1,4 +1,4 @@
-# PHP Average Perhitungan Sederhana
+#  Perhitungan Sederhana
 Proyek Tugas Pengujian Perangkat Lunak  
 Kelas PHP sederhana untuk menghitung statistik dasar dari array angka, dilengkapi unit test menggunakan PHPUnit.
 
